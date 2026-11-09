@@ -21,9 +21,9 @@ I build and scale multi-tenant SaaS platforms, with a focus on APIs, performance
 - Reduced tenant deployment time from six days to hours
 - Led a 200+ file refactor without user-facing incidents
 
-## Selected public project
+## AI-assisted hobby project
 
-- [Add It Up](https://github.com/iliepandia/add-it-up) — a local-first arithmetic game for children, built with modular JavaScript and Vite. Play statistics remain in the browser; the application sends no child data over the network.
+- [Add It Up](https://github.com/iliepandia/add-it-up) — a local-first arithmetic game for children, built as a hobby project using AI-assisted development. It uses modular JavaScript and Vite, while keeping play statistics in the browser and sending no child data over the network.
 
 ## AI-assisted engineering
 
